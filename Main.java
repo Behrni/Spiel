@@ -46,6 +46,10 @@ public class Main extends JFrame {
 	String minutes_string = String.format("%02d", minutes);
 	String hours_string = String.format("%02d", hours);
 	private final static int ONE_SECOND = 1000;
+<<<<<<< HEAD
+=======
+	Timer timer;
+>>>>>>> upstream
 
 	public Main() {
 
